@@ -3,6 +3,11 @@ import org.junit.Test;
 /**
  * 链表加法
  * 给出两个数，解析为链表，是用链表进行加法，输出结果用链表表示
+ * 重点
+ * 1. java中函数的形参是引用传递（指针），使用链表时，当使用result = result.prev 把指针指向的内存地址改变，但是不会影响实参
+ *需要return
+ * 2. 判断链表是否结束可以向前循环知道当前指针对应的内存地址为null结束，但不能返回（因为指针已经指向null，链表头结点已丢失
+ *  还可以通过while无线循环，当满足某条件是break（推荐）
  */
 public class LinkedListAddition {
 
@@ -21,7 +26,6 @@ public class LinkedListAddition {
 
         Node result = null;
         result = dealWithDouble(node1, node2, result);
-
         result = dealWithContinue(node1, node2, result);
         printNode(result, true);
     }
