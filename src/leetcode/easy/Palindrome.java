@@ -2,6 +2,9 @@ package leetcode.easy;
 
 import org.junit.Test;
 
+import java.util.Calendar;
+import java.util.Date;
+
 /**
  * 判断一个整数是否是回文数。回文数是指正序（从左向右）和倒序（从右向左）读都是一样的整数
  * 我的思路：
@@ -15,7 +18,10 @@ public class Palindrome {
 
     @Test
     public void test() {
-        System.out.println(isPalindrome(12321));
+        Date date = new Date();
+        Calendar cal = Calendar.getInstance();
+        cal.setTime(date);
+        System.out.println(cal.getWeekYear());
     }
 
     public boolean isPalindrome(int x) {
