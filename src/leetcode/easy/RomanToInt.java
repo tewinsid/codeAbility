@@ -3,16 +3,16 @@ package leetcode.easy;
 import org.junit.Test;
 
 /**
- * ����һ���������ֽ���ת��Ϊ����
+ * 给定一个罗马数字将其转化为整数
  * <p>
- * �ҵ��뷨:
- * һ��ʼ����hashMap���о�switch��ͨ�ã���������ַ���ת��Ϊchar���飬�ֱ��ÿ��Ԫ�ؽ����ж�
- * �����һ������ͰѶ�Ӧ��ֵ�ӵ�result�ϣ��������������Ͱ�ֵ������
- * ���õ��뷨��
- * �������ֵĹ���������Ĳ��ã��������߼���
- * ȡ����ǰ����
- * �жϵ�ǰ����С���Ҳ����֣�result = result - ��ǰ����
- * �жϵ�ǰ���ִ��ڵ����Ҳ����� result = result + ��ǰ����
+ * 我的想法:
+ * 一开始想用hashMap，感觉switch更通用，把输入的字符串转化为char数组，分别对每个元素进行判断
+ * 如果是一般情况就把对应的值加到result上，如果是特殊情况就把值做处理
+ * 更好的想法：
+ * 罗马数字的规则我理解的不好，正常的逻辑是
+ * 取到当前数字
+ * 判断当前数组小于右侧数字，result = result - 当前数字
+ * 判断当前数字大于等于右侧数字 result = result + 当前数字
  */
 public class RomanToInt {
 

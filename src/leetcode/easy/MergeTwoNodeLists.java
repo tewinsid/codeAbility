@@ -3,13 +3,13 @@ package leetcode.easy;
 import org.junit.Test;
 
 /**
- * ½«Á½¸öÓĞĞòÁ´±íºÏ²¢ÎªÒ»¸öĞÂµÄÓĞĞòÁ´±í²¢·µ»Ø¡£ĞÂÁ´±íÊÇÍ¨¹ıÆ´½Ó¸ø¶¨µÄÁ½¸öÁ´±íµÄËùÓĞ½Úµã×é³ÉµÄ¡£
- * ÎÒµÄÏë·¨£º
- *  ½«Ò»¸öÁ´±í×÷Îª½á¹û£¬±éÀúÁíÒ»¸öÁ´±í²åÈëresult
- *  ÎÊÌâ£º
- *      ÒòÎªÊÇµ¥ÏòÁ´±íËùÒÔ»á¶ªÊ§ÉÏÒ»¸öÖµ
- * ½â¾ö·½·¨£º
- *  resultÊÇĞÂ½¨µÄListNode£¬È»ºóÒÔÀàËÆ¹é²¢ÅÅĞòµÄĞÎÊ½¹¹Ôìresult
+ * å°†ä¸¤ä¸ªæœ‰åºé“¾è¡¨åˆå¹¶ä¸ºä¸€ä¸ªæ–°çš„æœ‰åºé“¾è¡¨å¹¶è¿”å›ã€‚æ–°é“¾è¡¨æ˜¯é€šè¿‡æ‹¼æ¥ç»™å®šçš„ä¸¤ä¸ªé“¾è¡¨çš„æ‰€æœ‰èŠ‚ç‚¹ç»„æˆ>çš„ã€‚
+ * æˆ‘çš„æƒ³æ³•ï¼š
+ *  å°†ä¸€ä¸ªé“¾è¡¨ä½œä¸ºç»“æœï¼Œéå†å¦ä¸€ä¸ªé“¾è¡¨æ’å…¥result
+ *  é—®é¢˜ï¼š
+ *      å› ä¸ºæ˜¯å•å‘é“¾è¡¨æ‰€ä»¥ä¼šä¸¢å¤±ä¸Šä¸€ä¸ªå€¼
+ * è§£å†³æ–¹æ³•ï¼š
+ *  resultæ˜¯æ–°å»ºçš„ListNodeï¼Œç„¶åä»¥ç±»ä¼¼å½’å¹¶æ’åºçš„å½¢å¼æ„é€ result
  */
 
 public class MergeTwoNodeLists {
@@ -19,7 +19,7 @@ public class MergeTwoNodeLists {
         ListNode l1 = buildNodeList(new int[]{1, 2, 4});
         //printListNode(l1);
         ListNode l2 = buildNodeList(new int[]{1, 3, 4});
-        printListNode(mergeTwoLists(null, l2));
+        printListNode(mergeTwoLists(l1, l2));
     }
 
     public ListNode buildNodeList(int[] input) {
@@ -41,7 +41,7 @@ public class MergeTwoNodeLists {
     }
 
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
-        // ÀàËÆ¹é²¢ÅÅĞòÖĞµÄºÏ²¢¹ı³Ì
+        // ç±»ä¼¼å½’å¹¶æ’åºä¸­çš„åˆå¹¶è¿‡ç¨‹
         ListNode dummyHead = new ListNode(0);
         ListNode cur = dummyHead;
         while (l1 != null && l2 != null) {
@@ -55,7 +55,7 @@ public class MergeTwoNodeLists {
                 l2 = l2.next;
             }
         }
-        // ÈÎÒ»Îª¿Õ£¬Ö±½ÓÁ¬½ÓÁíÒ»ÌõÁ´±í
+        // ä»»ä¸€ä¸ºç©ºï¼Œç›´æ¥è¿æ¥å¦ä¸€æ¡é“¾è¡¨
         if (l1 == null) {
             cur.next = l2;
         } else {

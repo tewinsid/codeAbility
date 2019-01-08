@@ -3,12 +3,12 @@ package leetcode.easy;
 import org.junit.Test;
 
 /**
- * ����һ�����������һ��Ŀ��ֵ���ҳ������к�ΪĿ��ֵ����������
- * ����Լ���ÿ������ֻ��Ӧһ�ִ𰸣���ͬ����Ԫ�ز��ܱ��ظ����á�
+ * 给定一个整数数组和一个目标值，找出数组中和为目标值的两个数。
+ * 你可以假设每个输入只对应一种答案，且同样的元素不能被重复利用。
  * tips:
- *  �Ƽ�����ֵ��ʱ����
- *  �����Ѳ�����������Ч��λ��
- *  ����ѭ����return������¿����ڽ�β�׳��쳣���return
+ *  推荐返回值临时创建
+ *  尽量把操作靠近它生效的位置
+ *  当在循环中return的情况下可以在结尾抛出异常替代return
  */
 public class TwoSum {
 

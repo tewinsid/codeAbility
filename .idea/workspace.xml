@@ -1,14 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eedb337f-f2cb-4de8-a65d-c56314b15a43" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/easy/ReverseInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/easy/TwoSum.java" afterDir="false" />
+    <list default="true" id="50091d89-fdda-4e65-826e-3da4371ac508" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/LemonHappyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeAbility.iml" beforeDir="false" afterPath="$PROJECT_DIR$/codeAbility.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/codeAbility/LinkedListAddition.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeAbility/LinkedListAddition.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/codeAbility/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeAbility/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeAbility/leetcode/easy/ReverseInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeAbility/leetcode/easy/ReverseInteger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeAbility/leetcode/easy/TwoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeAbility/leetcode/easy/TwoSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedListAddition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedListAddition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/easy/BracketsIsValid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/easy/BracketsIsValid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/easy/LongestCommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/easy/LongestCommonPrefix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/easy/MergeTwoNodeLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/easy/MergeTwoNodeLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/easy/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/easy/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/easy/ReverseInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/easy/ReverseInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/easy/RomanToInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/easy/RomanToInt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/easy/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/easy/TwoSum.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,57 +32,34 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-36516832">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.1" value="2" />
-          <entry key="project.opened" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="class" value="1" />
-          <entry key="java" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dummy" value="3" />
-          <entry key="java" value="1476" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="1476" />
-          <entry key="PLAIN_TEXT" value="3" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/easy/TwoSum.java">
+        <entry file="file://$PROJECT_DIR$/src/test/LemonHappyTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+            <state relative-caret-position="180">
+              <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/easy/ReverseInteger.java">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/easy/MergeTwoNodeLists.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+            <state relative-caret-position="148">
+              <caret line="63" column="30" lean-forward="true" selection-start-line="44" selection-start-column="8" selection-end-line="63" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///usr/local/jdk/lib/src.zip!/java.base/java/lang/Math.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="12258">
+              <caret line="738" column="23" selection-start-line="738" selection-start-column="23" selection-end-line="738" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -81,58 +73,38 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>null</find>
-      <find>origin</find>
-      <find>index</find>
-      <find>return</find>
-      <find>origin|origin</find>
-      <find>result</find>
-      <find>1534236469</find>
-      <find>2147483648</find>
-      <find>true</find>
-      <find>temp|temp</find>
-      <find>MAX_VALUE</find>
-      <find>10</find>
-      <find>MIN_VALUE|MAX_VALUE</find>
-      <find>MIN_VALUE</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/LinkedListAddition.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/easy/TwoSum.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/easy/BracketsIsValid.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/easy/LongestCommonPrefix.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/easy/Palindrome.java" />
         <option value="$PROJECT_DIR$/src/leetcode/easy/ReverseInteger.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/easy/RomanToInt.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/easy/TwoSum.java" />
+        <option value="$PROJECT_DIR$/src/LinkedListAddition.java" />
+        <option value="$PROJECT_DIR$/src/test/LemonHappyTest.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/easy/MergeTwoNodeLists.java" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1211" />
-    <option name="y" value="119" />
-    <option name="width" value="133" />
-    <option name="height" value="36" />
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="47" />
+    <option name="width" value="1346" />
+    <option name="height" value="701" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <abbreviatePackageNames ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -149,20 +121,20 @@
               <item name="codeAbility" type="b2602c69:ProjectViewProjectNode" />
               <item name="codeAbility" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codeAbility" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codeAbility" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="easy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="codeAbility" type="b2602c69:ProjectViewProjectNode" />
               <item name="codeAbility" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="LinkedListAddition.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+              <item name="MergeTwoNodeLists.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="codeAbility" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codeAbility" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -173,16 +145,17 @@
   </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542244699192" />
-    <property name="last_opened_file_path" value="$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar!/" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546958083145" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../proxyPool" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -196,31 +169,24 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ReverseInteger.test">
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LinkedListAddition.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.MergeTwoNodeLists.test">
+    <configuration name="LemonHappyTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="codeAbility" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LinkedListAddition" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.LemonHappyTest" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseInteger.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MergeTwoNodeLists.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="codeAbility" />
       <extension name="coverage">
         <pattern>
@@ -229,64 +195,17 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="leetcode.easy" />
-      <option name="MAIN_CLASS_NAME" value="leetcode.easy.ReverseInteger" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.easy.MergeTwoNodeLists" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoSum.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="codeAbility" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="leetcode.easy" />
-      <option name="MAIN_CLASS_NAME" value="leetcode.easy.TwoSum" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="JUnit.LinkedListAddition.test" />
-      <item itemvalue="JUnit.TwoSum.test" />
-      <item itemvalue="JUnit.ReverseInteger.test" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ReverseInteger.test" />
-        <item itemvalue="JUnit.TwoSum.test" />
-        <item itemvalue="JUnit.LinkedListAddition.test" />
+        <item itemvalue="JUnit.MergeTwoNodeLists.test" />
+        <item itemvalue="JUnit.LemonHappyTest.test" />
       </list>
     </recent_temporary>
   </component>
@@ -295,58 +214,59 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="eedb337f-f2cb-4de8-a65d-c56314b15a43" name="Default" comment="" />
-      <created>1542033796734</created>
+      <changelist id="50091d89-fdda-4e65-826e-3da4371ac508" name="Default Changelist" comment="" />
+      <created>1544342493448</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1542033796734</updated>
-      <workItem from="1542033799932" duration="7217000" />
-      <workItem from="1542155222269" duration="1872000" />
-      <workItem from="1542241233507" duration="3438000" />
+      <updated>1544342493448</updated>
+      <workItem from="1544342497411" duration="9572000" />
+      <workItem from="1545746015831" duration="2607000" />
+      <workItem from="1545831114730" duration="664000" />
+      <workItem from="1546957672225" duration="229000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ReverseInteger_test - 2018.11.15 at 09h 00m 18s.xml">
-      <configuration name="ReverseInteger.test" configurationId="JUnit" />
+    <history-entry file="LemonHappyTest_test - 2018.12.09 at 18h 18m 17s.xml">
+      <configuration name="LemonHappyTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReverseInteger_test - 2018.11.15 at 09h 06m 02s.xml">
-      <configuration name="ReverseInteger.test" configurationId="JUnit" />
+    <history-entry file="LemonHappyTest_test - 2018.12.09 at 18h 19m 02s.xml">
+      <configuration name="LemonHappyTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReverseInteger_test - 2018.11.15 at 09h 14m 19s.xml">
-      <configuration name="ReverseInteger.test" configurationId="JUnit" />
+    <history-entry file="LemonHappyTest_test - 2018.12.09 at 18h 19m 50s.xml">
+      <configuration name="LemonHappyTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReverseInteger_test - 2018.11.15 at 09h 14m 42s.xml">
-      <configuration name="ReverseInteger.test" configurationId="JUnit" />
+    <history-entry file="LemonHappyTest_test - 2018.12.09 at 18h 21m 55s.xml">
+      <configuration name="LemonHappyTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReverseInteger_test - 2018.11.15 at 09h 14m 55s.xml">
-      <configuration name="ReverseInteger.test" configurationId="JUnit" />
+    <history-entry file="LemonHappyTest_test - 2018.12.09 at 18h 22m 21s.xml">
+      <configuration name="LemonHappyTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReverseInteger_test - 2018.11.15 at 09h 15m 05s.xml">
-      <configuration name="ReverseInteger.test" configurationId="JUnit" />
+    <history-entry file="LemonHappyTest_test - 2018.12.09 at 18h 23m 25s.xml">
+      <configuration name="LemonHappyTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReverseInteger_test - 2018.11.15 at 09h 15m 33s.xml">
-      <configuration name="ReverseInteger.test" configurationId="JUnit" />
+    <history-entry file="LemonHappyTest_test - 2018.12.09 at 18h 23m 36s.xml">
+      <configuration name="LemonHappyTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReverseInteger_test - 2018.11.15 at 09h 15m 46s.xml">
-      <configuration name="ReverseInteger.test" configurationId="JUnit" />
+    <history-entry file="LemonHappyTest_test - 2018.12.09 at 18h 24m 05s.xml">
+      <configuration name="LemonHappyTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReverseInteger_test - 2018.11.15 at 09h 16m 02s.xml">
-      <configuration name="ReverseInteger.test" configurationId="JUnit" />
+    <history-entry file="LemonHappyTest_test - 2018.12.09 at 18h 24m 20s.xml">
+      <configuration name="LemonHappyTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReverseInteger_test - 2018.11.15 at 09h 16m 25s.xml">
-      <configuration name="ReverseInteger.test" configurationId="JUnit" />
+    <history-entry file="LemonHappyTest_test - 2018.12.09 at 18h 28m 42s.xml">
+      <configuration name="LemonHappyTest.test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12527000" />
+    <option name="totallyTimeSpent" value="13084000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1211" y="119" width="133" height="36" extended-state="0" />
+    <frame x="0" y="25" width="1366" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="1.0" />
-      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.26136363" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -354,66 +274,126 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32905984" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3985043" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32905984" />
-      <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32899022" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32899022" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
+    <entry file="file://$PROJECT_DIR$/codeAbility.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/easy/BracketsIsValid.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        <state relative-caret-position="144">
+          <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Test.class">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/easy/LongestCommonPrefix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        <state relative-caret-position="114">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LinkedListAddition.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/easy/Palindrome.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/easy/TwoSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        <state relative-caret-position="198">
+          <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/easy/ReverseInteger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        <state relative-caret-position="270">
+          <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/easy/RomanToInt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/easy/TwoSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedListAddition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/local/jdk/lib/src.zip!/java.base/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-96">
+          <caret line="2264" column="20" selection-start-line="2264" selection-start-column="20" selection-end-line="2264" selection-end-column="20" />
+          <folding>
+            <element signature="e#94325#94326#0" expanded="true" />
+            <element signature="e#94363#94364#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/LemonHappyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/local/jdk/lib/src.zip!/java.base/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12258">
+          <caret line="738" column="23" selection-start-line="738" selection-start-column="23" selection-end-line="738" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/easy/MergeTwoNodeLists.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="63" column="30" lean-forward="true" selection-start-line="44" selection-start-column="8" selection-end-line="63" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -457,7 +437,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.8</last-edited>
+          <last-edited>11</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -480,9 +460,8 @@
           </splitter-proportions>
         </settings>
       </state>
-      <state key="ProjectJDKs.UI">
+      <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -492,9 +471,8 @@
           </splitter-proportions>
         </settings>
       </state>
-      <state key="ProjectLibrariesConfigurable.UI">
+      <state key="ScopeChooserConfigurable.UI">
         <settings>
-          <last-edited>hamcrest-core-1.3</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

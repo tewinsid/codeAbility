@@ -3,12 +3,12 @@ package leetcode.easy;
 import org.junit.Test;
 
 /**
- * ��Ŀ:
- *  ��дһ�������������ַ��������е������ǰ׺����������ڹ���ǰ׺�����ؿ��ַ��� ""��
- * ע��
- *  ʹ��forѭ��subString����ؽ�ȡ��ʱ��һ��Ҫע���±������ж�
- *  null�����ж�
- *  �س�����Ŀ���
+ * 题目:
+ *  编写一个函数来查找字符串数组中的最长公共前缀。如果不存在公共前缀，返回空字符串 ""。
+ * 注意
+ *  使用for循环subString等相关截取的时候一定要注意下标的溢出判断
+ *  null对象判断
+ *  特出情况的考虑
  */
 public class LongestCommonPrefix {
 
