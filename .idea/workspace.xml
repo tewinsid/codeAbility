@@ -2,28 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50091d89-fdda-4e65-826e-3da4371ac508" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/LemonHappyTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/hamcrest_core_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/junit_4_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeAbility.iml" beforeDir="false" afterPath="$PROJECT_DIR$/codeAbility.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeAbility/LinkedListAddition.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeAbility/LinkedListAddition.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeAbility/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeAbility/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeAbility/leetcode/easy/ReverseInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeAbility/leetcode/easy/ReverseInteger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeAbility/leetcode/easy/TwoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeAbility/leetcode/easy/TwoSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedListAddition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedListAddition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/easy/BracketsIsValid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/easy/BracketsIsValid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/easy/LongestCommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/easy/LongestCommonPrefix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/easy/MergeTwoNodeLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/easy/MergeTwoNodeLists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/easy/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/easy/Palindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/easy/ReverseInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/easy/ReverseInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/easy/RomanToInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/easy/RomanToInt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/easy/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/easy/TwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/easy/RemobeDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/easy/RemobeDuplicates.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,11 +25,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/easy/MergeTwoNodeLists.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
-              <caret line="63" column="30" lean-forward="true" selection-start-line="44" selection-start-column="8" selection-end-line="63" selection-end-column="30" />
+            <state relative-caret-position="-158">
+              <caret line="43" column="23" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/easy/RemobeDuplicates.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -88,6 +76,7 @@
         <option value="$PROJECT_DIR$/src/LinkedListAddition.java" />
         <option value="$PROJECT_DIR$/src/test/LemonHappyTest.java" />
         <option value="$PROJECT_DIR$/src/leetcode/easy/MergeTwoNodeLists.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/easy/RemobeDuplicates.java" />
       </list>
     </option>
   </component>
@@ -127,13 +116,6 @@
               <item name="codeAbility" type="b2602c69:ProjectViewProjectNode" />
               <item name="codeAbility" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="MergeTwoNodeLists.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="codeAbility" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codeAbility" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -150,7 +132,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546958083145" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546959583444" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../proxyPool" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -169,7 +151,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MergeTwoNodeLists.test">
+  <component name="RunManager" selected="JUnit.RemobeDuplicates.test">
     <configuration name="LemonHappyTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="codeAbility" />
       <extension name="coverage">
@@ -202,8 +184,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RemobeDuplicates.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="codeAbility" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="leetcode.easy" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.easy.RemobeDuplicates" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.RemobeDuplicates.test" />
         <item itemvalue="JUnit.MergeTwoNodeLists.test" />
         <item itemvalue="JUnit.LemonHappyTest.test" />
       </list>
@@ -222,50 +221,50 @@
       <workItem from="1544342497411" duration="9572000" />
       <workItem from="1545746015831" duration="2607000" />
       <workItem from="1545831114730" duration="664000" />
-      <workItem from="1546957672225" duration="229000" />
+      <workItem from="1546957672225" duration="1901000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LemonHappyTest_test - 2018.12.09 at 18h 18m 17s.xml">
-      <configuration name="LemonHappyTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LemonHappyTest_test - 2018.12.09 at 18h 19m 02s.xml">
-      <configuration name="LemonHappyTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LemonHappyTest_test - 2018.12.09 at 18h 19m 50s.xml">
-      <configuration name="LemonHappyTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LemonHappyTest_test - 2018.12.09 at 18h 21m 55s.xml">
-      <configuration name="LemonHappyTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LemonHappyTest_test - 2018.12.09 at 18h 22m 21s.xml">
-      <configuration name="LemonHappyTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LemonHappyTest_test - 2018.12.09 at 18h 23m 25s.xml">
-      <configuration name="LemonHappyTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LemonHappyTest_test - 2018.12.09 at 18h 23m 36s.xml">
-      <configuration name="LemonHappyTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LemonHappyTest_test - 2018.12.09 at 18h 24m 05s.xml">
-      <configuration name="LemonHappyTest.test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="LemonHappyTest_test - 2018.12.09 at 18h 24m 20s.xml">
       <configuration name="LemonHappyTest.test" configurationId="JUnit" />
     </history-entry>
     <history-entry file="LemonHappyTest_test - 2018.12.09 at 18h 28m 42s.xml">
       <configuration name="LemonHappyTest.test" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="MergeTwoNodeLists_test - 2019.01.08 at 22h 31m 12s.xml">
+      <configuration name="MergeTwoNodeLists.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MergeTwoNodeLists_test - 2019.01.08 at 22h 31m 27s.xml">
+      <configuration name="MergeTwoNodeLists.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RemobeDuplicates_test - 2019.01.08 at 22h 42m 00s.xml">
+      <configuration name="RemobeDuplicates.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RemobeDuplicates_test - 2019.01.08 at 22h 42m 16s.xml">
+      <configuration name="RemobeDuplicates.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RemobeDuplicates_test - 2019.01.08 at 22h 42m 29s.xml">
+      <configuration name="RemobeDuplicates.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RemobeDuplicates_test - 2019.01.08 at 22h 48m 46s.xml">
+      <configuration name="RemobeDuplicates.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RemobeDuplicates_test - 2019.01.08 at 22h 49m 10s.xml">
+      <configuration name="RemobeDuplicates.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RemobeDuplicates_test - 2019.01.08 at 22h 49m 55s.xml">
+      <configuration name="RemobeDuplicates.test" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13084000" />
+    <option name="totallyTimeSpent" value="14744000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.26136363" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26136363" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -392,8 +391,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/easy/MergeTwoNodeLists.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
-          <caret line="63" column="30" lean-forward="true" selection-start-line="44" selection-start-column="8" selection-end-line="63" selection-end-column="30" />
+        <state relative-caret-position="-158">
+          <caret line="43" column="23" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/easy/RemobeDuplicates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
         </state>
       </provider>
     </entry>
