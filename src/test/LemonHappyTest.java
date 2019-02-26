@@ -3,7 +3,8 @@ package test;
 import org.junit.Test;
 
 import java.text.DecimalFormat;
-import java.util.Scanner;
+import java.text.SimpleDateFormat;
+import java.util.*;
 
 public class LemonHappyTest {
     @Test
@@ -69,5 +70,18 @@ public class LemonHappyTest {
 
         return result;
     }
+
+    @Test
+    public void tempTest() {
+        Date date = new Date();
+        Calendar cal = Calendar.getInstance();
+        cal.setTime(date);
+        cal.add(Calendar.MONTH, -1);
+        date = cal.getTime();
+        SimpleDateFormat sf = new SimpleDateFormat("yyyyMM");
+
+        System.out.println(sf.format(date));
+    }
+
 
 }
