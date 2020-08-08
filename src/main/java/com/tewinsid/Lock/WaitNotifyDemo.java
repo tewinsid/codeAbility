@@ -1,6 +1,7 @@
-package com.tewinsid.LockTest;
+package com.tewinsid.Lock;
 
-import org.junit.jupiter.api.Test;
+
+import org.junit.Test;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -9,14 +10,13 @@ import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.LinkedBlockingQueue;
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.ReentrantLock;
-import java.util.function.Consumer;
 
 /**
  * @Author: wanggang@aibank.com
  * @Description: 三种线程间协助机制
  * @Date: Created in 21:58 2020/7/31}
  */
-public class WaitNotifyTest {
+public class WaitNotifyDemo {
 
     private List list;
 

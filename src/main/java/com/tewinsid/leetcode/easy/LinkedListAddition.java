@@ -1,3 +1,5 @@
+package com.tewinsid.leetcode.easy;
+
 import org.junit.Test;
 
 /**
@@ -43,7 +45,7 @@ public class LinkedListAddition {
             result = result.prev;
 
             while (true) {
-                sum = (int) result.value + tenDigits;
+                sum = (Integer) result.value + tenDigits;
                 tenDigits = sum / 10;
                 singleDigits = sum % 10;
 
@@ -62,8 +64,8 @@ public class LinkedListAddition {
 
     private Node dealWithDouble(Node node1, Node node2, Node result) {
         while (node1 != null && node2 != null) {
-            int node1Value = (int) node1.value;
-            int node2Value = (int) node2.value;
+            int node1Value = (Integer) node1.value;
+            int node2Value = (Integer) node2.value;
 
             node1 = node1.prev;
             node2 = node2.prev;
