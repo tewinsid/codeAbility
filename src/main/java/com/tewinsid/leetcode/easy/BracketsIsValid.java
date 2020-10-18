@@ -37,7 +37,7 @@ public class BracketsIsValid {
     }
 
     public boolean isValid(String s) {
-        LinkedList stack = new LinkedList();
+        LinkedList<Character> stack = new LinkedList();
         char[] input = s.toCharArray();
         Map<Character, Character> param = new HashMap();
         param.put(')', '(');
@@ -52,7 +52,7 @@ public class BracketsIsValid {
                 if (stack.size() == 0) {
                     return false;
                 }
-                char left = (char) stack.pop();
+                char left = stack.pop();
                 if (param.get(temp) == null || !(param.get(temp) == left)) {
                     return false;
                 }

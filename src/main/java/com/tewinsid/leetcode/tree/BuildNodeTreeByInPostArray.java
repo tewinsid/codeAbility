@@ -2,9 +2,12 @@ package com.tewinsid.leetcode.tree;
 
 import org.junit.Test;
 
+import java.util.Arrays;
+
 /**
  * @Author: wanggang@aibank.com
- * @Description:
+ * @Description: 从中序和后续数组重新构建二叉树
+ * 从后续中找到根节点，使用根节点分隔中序，递归执行到数组长度为1
  * @Date: Created in 12:34 2020/7/16}
  */
 public class BuildNodeTreeByInPostArray {
@@ -31,7 +34,12 @@ public class BuildNodeTreeByInPostArray {
         }
     }
 
-
+    /**
+     * 我的逻辑
+     * @param inorder
+     * @param postorder
+     * @return
+     */
     TreeNode buildTree(int[] inorder, int[] postorder) {
         if (inorder.length == 0) {
             return null;
@@ -90,5 +98,23 @@ public class BuildNodeTreeByInPostArray {
         TreeNode(int x) {
             val = x;
         }
+    }
+
+    /**
+     * 更好的答案
+     */
+    public TreeNode buildTreeBetter(int[] inorder, int[] postorder) {
+        if (postorder == null || inorder == null || postorder.length == 0 || inorder.length == 0) {
+            return null;
+        }
+        TreeNode root = new TreeNode(postorder[postorder.length - 1]);
+        for (int i = 0; i < postorder.length; i++) {
+            if (postorder[postorder.length - 1] == inorder[i]) {
+                root.left = buildTreeBetter(Arrays.copyOfRange(inorder, 0, i), Arrays.copyOfRange(postorder, 0, i));
+                root.right = buildTreeBetter(Arrays.copyOfRange(inorder, i + 1, inorder.length), Arrays.copyOfRange(postorder, i, postorder.length - 1));
+                break;
+            }
+        }
+        return root;
     }
 }
