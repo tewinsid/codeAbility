@@ -1,7 +1,7 @@
 package com.tewinsid.leetcode.tree;
 
 /**
- * @Author: wanggang@aibank.com
+ * @Author: tewinsid
  * @Description: 填充每个节点的下一个右侧节点指针
  * @Date: Created in 15:07 2020/10/18}
  */

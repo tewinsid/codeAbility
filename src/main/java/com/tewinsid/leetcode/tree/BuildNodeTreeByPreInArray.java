@@ -3,7 +3,7 @@ package com.tewinsid.leetcode.tree;
 import org.junit.Test;
 
 /**
- * @Author: wanggang@aibank.com
+ * @Author: tewinsid
  * @Description: 根据前序和中序数组构建二叉树
  * 思路：根据前序得到根节点，根据中序分隔子数组，递归执行知道数组长度为1
  * @Date: Created in 12:36 2020/9/9}

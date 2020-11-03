@@ -12,7 +12,7 @@ import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.ReentrantLock;
 
 /**
- * @Author: wanggang@aibank.com
+ * @Author: tewinsid
  * @Description: 三种线程间协助机制
  * @Date: Created in 21:58 2020/7/31}
  */

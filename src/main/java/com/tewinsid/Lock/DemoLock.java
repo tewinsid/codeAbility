@@ -3,12 +3,11 @@ package com.tewinsid.Lock;
 import java.util.concurrent.locks.AbstractQueuedSynchronizer;
 
 /**
- * @Author: wanggang@aibank.com
+ * @Author: tewinsid
  * @Description:
  * @Date: Created in 11:42 2020/5/26}
  */
 public class DemoLock{
-
     private Sync sync;
 
     {

@@ -5,7 +5,7 @@ import org.junit.Test;
 import java.util.Arrays;
 
 /**
- * @Author: wanggang@aibank.com
+ * @Author: tewinsid
  * @Description: 从中序和后续数组重新构建二叉树
  * 从后续中找到根节点，使用根节点分隔中序，递归执行到数组长度为1
  * @Date: Created in 12:34 2020/7/16}
