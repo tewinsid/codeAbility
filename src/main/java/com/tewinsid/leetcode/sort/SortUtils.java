@@ -8,7 +8,7 @@ public class SortUtils {
         target[second] = temp;
     }
 
-    public static void printAttay(int[] target) {
+    public static void printArray(int[] target) {
         for (int i = 0; i < target.length; i++) {
             System.out.print(" --- " + target[i]);
         }

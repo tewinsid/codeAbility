@@ -8,7 +8,7 @@ public class BubbleSort {
     public void main() {
         int[] target = {1, 5, 2, 6, 83, 2};
         sort(target);
-        SortUtils.printAttay(target);
+        SortUtils.printArray(target);
     }
 
     public void sort(int[] target) {

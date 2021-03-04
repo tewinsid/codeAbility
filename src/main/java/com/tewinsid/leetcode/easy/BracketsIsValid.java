@@ -53,7 +53,7 @@ public class BracketsIsValid {
                     return false;
                 }
                 char left = stack.pop();
-                if (param.get(temp) == null || !(param.get(temp) == left)) {
+                if (param.get(temp) == null || param.get(temp) != left) {
                     return false;
                 }
             }

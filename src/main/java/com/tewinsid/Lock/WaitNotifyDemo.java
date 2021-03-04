@@ -8,6 +8,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.LinkedBlockingQueue;
+import java.util.concurrent.TimeUnit;
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.ReentrantLock;
 
@@ -28,11 +29,12 @@ public class WaitNotifyDemo {
      * 通过 wait notify 实现通知机制
      */
     @Test
-    public void notifyMissing() {
+    public void notifyMissing() throws InterruptedException {
         Producer producer = new Producer();
         Consumer consumer = new Consumer();
-        producer.start();
         consumer.start();
+        producer.start();
+        TimeUnit.SECONDS.sleep(10);
     }
 
     /**
